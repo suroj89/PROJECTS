@@ -1,7 +1,0 @@
-total sales:183000
-total profit: 22000
-total product: Product
-Laptop    105000
-Mobile     45000
-Tablet     33000
-Name: Sales, dtype: int64
