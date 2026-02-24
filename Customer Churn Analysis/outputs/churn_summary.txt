@@ -1,0 +1,6 @@
+CUSTOMER CHURN ANALYSIS SUMMARY
+Generated on: 2026-02-24 13:44:56.438872
+
+Total Customers: 50
+Churned Customers: 21
+Churn Rate: 42.00%
